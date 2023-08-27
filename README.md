@@ -1,4 +1,4 @@
-<h1>Challenge proposed in a class on the dio platform by instructor @cami-la(https://github.com/cami-la)</h1>
+<h2>Challenge proposed in a class on the dio platform by instructor @cami-la(https://github.com/cami-la)</h2>
 
 
 <h2>Java Stream API - Main Methods</h2>
